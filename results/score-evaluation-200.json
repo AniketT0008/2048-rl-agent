@@ -1,0 +1,13 @@
+{
+  "checkpoint": "models/ntuple_best.npz",
+  "games": 200,
+  "seed_start": 349990,
+  "search_depth": 2,
+  "win_condition": "reached tile 2048 or higher",
+  "win_rate": 0.99,
+  "mean_score": 162771,
+  "best_tile": 16384,
+  "best_tile_score": 309568,
+  "max_score": 309568,
+  "note": "Score-focused N-tuple checkpoint. Peak score and tile vary with random spawns."
+}
